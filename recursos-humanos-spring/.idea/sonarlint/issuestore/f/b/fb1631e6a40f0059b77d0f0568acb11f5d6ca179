@@ -1,0 +1,10 @@
+
+
+java:S2629%"7Use the built-in formatting to construct this argument.(¯ÕşÃøÿÿÿÿ8à½Şïû1J$3f32ea86-f5fc-45d4-840e-01e0c18fd88e
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8î½Şïû1J$f9c1e2f2-0e04-4f5d-ae3a-791e532ff170
+‰
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(¯ÕşÃøÿÿÿÿ8÷½Şïû1J$511bc931-e311-4f8a-8a4b-9750fc8ff32d
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(ÁÃ‰Øüÿÿÿÿ8ş½Şïû1J$f9a1053b-640f-41cc-a9e9-6308c415035e
+„
+java:S1128"<Remove this unused import 'gm.rh.servicio.EmpleadoServicio'.(ˆ¬òÑøÿÿÿÿ8ßÂàïû1J$ab8e9535-d5b3-4580-85d2-0487d38a8493
